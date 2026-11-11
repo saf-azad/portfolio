@@ -10,4 +10,4 @@ assets/        titles, screenshots, background, favicon
 vercel.json    clean URLs and long-lived caching for assets
 ```
 
-Type: Bayon, DM Sans and JetBrains Mono via Google Fonts.
+Type: Bayon and DM Sans via Google Fonts.
